@@ -1,0 +1,8 @@
+#extentions
+*.pdb
+*.bmp
+*.log
+*.map
+*.ilk
+*.ipdb
+*.iobj
