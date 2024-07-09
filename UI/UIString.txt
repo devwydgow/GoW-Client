@@ -265,3 +265,16 @@
 271	Buscar
 272	Macro
 273	Reset
+274	Donate
+275	Consumiveis
+276	Fadas
+277	Trajes
+278	Montarias
+279	Pacotes
+280	Tinturas
+281	Big_Sale
+282	Evo
+283	Buscar_Player
+284	-
+285	+
+286	Player_Info
